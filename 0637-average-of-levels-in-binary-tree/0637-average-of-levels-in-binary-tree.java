@@ -21,14 +21,14 @@ class Solution {
         q.add(root);
         while(q.size()>0){
             int n = q.size();
-           long sum = 0;
+           double sum = 0;
             for(int i = 0; i<n; i++){
                 TreeNode curr =  q.remove();
                 sum += curr.val;
                 if(curr.left != null) q.add(curr.left);
                 if(curr.right != null) q.add(curr.right);
             }
-            double total = (double)sum/n;
+            double total = sum/n;
             ans.add(total);
         }
         return ans;
