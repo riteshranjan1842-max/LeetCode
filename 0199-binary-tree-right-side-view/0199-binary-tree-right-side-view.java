@@ -26,10 +26,4 @@ class Solution {
            view(root.left,level+1,ans);
            view(root.right,level+1,ans);
     }
-     public int levels(TreeNode root){
-        if(root==null) return 0;
-        int left = levels(root.left);
-        int right = levels(root.right);
-        return 1 + Math.max(left,right);
-    }
 }
