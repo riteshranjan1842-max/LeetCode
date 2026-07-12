@@ -1,8 +1,8 @@
 class Solution {
-    static int k2;
+    static int k;
     static int ans;
     public int kthSmallest(TreeNode root, int k) {
-       k2 = k;
+       this.k = k;
        ans = -1;
         inorder(root);
         return ans;
@@ -10,8 +10,8 @@ class Solution {
     public void inorder(TreeNode root){
         if(root==null) return;
         inorder(root.left);
-        k2--;
-        if(k2==0) ans = root.val;
+        k--;
+        if(k==0) ans = root.val;
         inorder(root.right);
     }
 }
