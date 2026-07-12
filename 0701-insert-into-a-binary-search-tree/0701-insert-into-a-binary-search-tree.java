@@ -21,12 +21,12 @@ class Solution {
     }
     public void attach(TreeNode root, int val){
         if(root==null) return;
-        if(root.left==null && root.right==null){
-            TreeNode temp = new TreeNode(val);
-            if(root.val > val) root.left = temp;
-            else root.right = temp;
-            return;
-        }
+        // if(root.left==null && root.right==null){
+        //     TreeNode temp = new TreeNode(val);
+        //     if(root.val > val) root.left = temp;
+        //     else root.right = temp;
+        //     return;
+        // }
         if(root.val > val){
             if(root.left==null) root.left = new TreeNode(val);
             else attach(root.left, val); 
