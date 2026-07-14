@@ -17,22 +17,15 @@ class Solution {
     public void flatten(TreeNode root) {
         TreeNode curr = root;
          while(curr != null){
-            if(curr.left != null){
+            if(curr.left != null){ // pred nikal sakta
                 TreeNode pred = curr.left;
                 while(pred.right!=null && pred.right!=curr) pred = pred.right;
-                if(pred.right==null){
                     pred.right = curr.right;
                     curr.right = curr.left;
                     curr.left = null;
-                }
-                else{
-                    curr = curr.right;
-                }
             }
-            else{
                 curr = curr.right;
-            }
-         }   
+        }   
     }
 } 
 
