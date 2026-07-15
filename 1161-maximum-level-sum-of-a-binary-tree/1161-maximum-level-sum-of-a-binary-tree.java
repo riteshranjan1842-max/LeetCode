@@ -22,15 +22,15 @@ class Solution {
         int ansLevel = 0;
         while(q.size() > 0){
             int n = q.size();
-            long sum = 0;
+            int sum = 0;
             for(int i = 0; i<n; i++){
                 TreeNode temp = q.remove();
                 sum += temp.val;
                 if(temp.left != null) q.add(temp.left);
                 if(temp.right != null) q.add(temp.right);
             }
-            if((int)sum>maxSum){
-                maxSum = (int)sum;
+            if(sum>maxSum){
+                maxSum = sum;
                 ansLevel = level;
             }
             level++;  
