@@ -13,23 +13,30 @@
  *     }
  * }
  */
+
+class Pair{
+    int sum;
+    int size;
+    Pair(int sum, int size){
+        this.sum = sum;
+        this.size = size;
+    }
+}
 class Solution {
     int count;
     public int averageOfSubtree(TreeNode root) {
-        if(root==null) return 0;
-        int sum = sum(root);
-        int size = size(root);
+       count = 0;
+       average(root);
+       return count;
+    }
+    
+    public Pair average(TreeNode root){
+        if(root==null) return new Pair(0,0); 
+        Pair lst = average(root.left);
+        Pair rst = average(root.right);
+        int sum = root.val + lst.sum + rst.sum;
+        int size = 1 + lst.size + rst.size;
         if((sum/size)==root.val) count++;
-        averageOfSubtree(root.left);
-        averageOfSubtree(root.right);
-        return count;
-    }
-    public int sum(TreeNode root){
-        if(root==null) return 0;
-        return root.val + sum(root.left) + sum(root.right);
-    }
-    public int size(TreeNode root){
-        if(root==null) return 0;
-        return 1 + size(root.left) + size(root.right);
+        return new Pair(sum, size);
     }
 }
