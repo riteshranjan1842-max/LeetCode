@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // Method 2 : BFS
     public TreeNode reverseOddLevels(TreeNode root) {
         Queue<TreeNode> q = new LinkedList<>();
         List<List<TreeNode>> ans = new ArrayList<>();
@@ -50,7 +51,7 @@ class Solution {
     }
 }
 
-// Method 1
+// Method 1 : DFS
 // public TreeNode reverseOddLevels(TreeNode root) {
 //         helper(root.left, root.right, 1);
 //         return root;
