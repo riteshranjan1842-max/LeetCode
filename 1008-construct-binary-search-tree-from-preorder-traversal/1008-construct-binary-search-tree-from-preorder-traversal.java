@@ -16,7 +16,9 @@
 class Solution {
     public TreeNode bstFromPreorder(int[] preorder) {
         int n = preorder.length;
-        int[] inorder = Arrays.copyOf(preorder,preorder.length);
+        int[] inorder = new int[n];
+        int i = 0;
+        for(int ele : preorder) inorder[i++] = ele;
         Arrays.sort(inorder);
         return helper(0, n-1,0,n-1,inorder, preorder);
     }
