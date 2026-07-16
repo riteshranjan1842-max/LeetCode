@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -125,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -164,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
