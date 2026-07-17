@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Monotonic Stack
@@ -195,8 +198,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
