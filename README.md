@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
