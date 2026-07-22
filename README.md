@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0242-valid-anagram](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Divide and Conquer
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
