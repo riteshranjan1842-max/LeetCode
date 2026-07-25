@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2679-sum-in-a-matrix) |
+| [3536-maximum-product-of-two-digits](https://github.com/riteshranjan1842-max/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [3536-maximum-product-of-two-digits](https://github.com/riteshranjan1842-max/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Geometry
 |  |
 | ------- |
