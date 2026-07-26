@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3536-maximum-product-of-two-digits](https://github.com/riteshranjan1842-max/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -310,4 +311,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
