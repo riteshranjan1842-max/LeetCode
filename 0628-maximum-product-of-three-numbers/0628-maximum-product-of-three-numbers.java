@@ -18,9 +18,7 @@ class Solution {
             else if((nums[i])>=max3 && (nums[i])!=max2){
                     max3 = nums[i];
             }
-        }
-        for(int i = 0; i<nums.length; i++){
-            if((nums[i])<=min){
+             if((nums[i])<=min){
                 min2 = min;
                min = nums[i];
             }
