@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0229-majority-element-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Bucket Sort
