@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0692-top-k-frequent-words](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Bucket Sort
@@ -333,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -348,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
