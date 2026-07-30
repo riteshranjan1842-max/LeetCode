@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0509-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sorting
