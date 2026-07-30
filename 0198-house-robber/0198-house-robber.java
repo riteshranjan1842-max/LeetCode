@@ -1,16 +1,13 @@
 class Solution {
-    static int[] dp;
     public int rob(int[] arr) {
-        dp = new int[arr.length]; // 0 to n-1
-        Arrays.fill(dp, -1);
-        return loot(0, arr);
+        int n = arr.length;
+        if(n==1) return arr[0];
+        int[] dp = new int[n]; // 0 to n-1
+        dp[0] = arr[0];
+        dp[1] =  Math.max(arr[0],arr[1]);
+        for (int i = 2; i <n ; i++) {
+            dp[i] = Math.max(dp[i-2]+arr[i],dp[i-1]);
+        }
+       return dp[n-1];
     }
-    public int loot(int index, int[] arr) {
-        if(index >= arr.length) return 0;
-        if(dp[index] > -1) return dp[index];
-        int pick = arr[index] + loot(index + 2, arr);
-        int skip =  loot(index + 1, arr);
-        return dp[index] = Math.max(pick, skip);
-    }
-     
 }
