@@ -10,9 +10,7 @@ class Solution {
         if(dp[index] > -1) return dp[index];
         int pick = arr[index] + loot(index + 2, arr);
         int skip =  loot(index + 1, arr);
-        int ans = Math.max(pick, skip);
-        dp[index] = ans;
-        return ans;
+        return dp[index] = Math.max(pick, skip);
     }
      
 }
