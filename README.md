@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0509-fibonacci-number) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2679-sum-in-a-matrix) |
