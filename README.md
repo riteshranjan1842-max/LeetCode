@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0198-house-robber) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
