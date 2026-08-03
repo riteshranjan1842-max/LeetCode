@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
