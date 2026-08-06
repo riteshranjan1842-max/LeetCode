@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2679-sum-in-a-matrix](https://github.com/riteshranjan1842-max/LeetCode/tree/master/2679-sum-in-a-matrix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/riteshranjan1842-max/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/riteshranjan1842-max/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/riteshranjan1842-max/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Geometry
