@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0279-perfect-squares) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -433,4 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/riteshranjan1842-max/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
