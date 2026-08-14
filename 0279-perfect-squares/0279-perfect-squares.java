@@ -5,7 +5,7 @@ class Solution {
        for(int i = 1; i<=n; i++){
           if(isPerfect(i)) dp[i] = 1;
           else{
-            int min = n;
+             int min = n;
                for(int j = 1; j*j<=i; j++){
                    int count = dp[j*j] + dp[i-j*j];
                    min = Math.min(min, count);
