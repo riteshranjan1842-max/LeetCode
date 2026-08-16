@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -456,4 +459,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
