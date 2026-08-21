@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/riteshranjan1842-max/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1143-longest-common-subsequence](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/riteshranjan1842-max/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
