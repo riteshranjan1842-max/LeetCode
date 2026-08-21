@@ -1,11 +1,11 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
         int m = s.length();
-        StringBuilder rev = reverse(s);
+        String rev = new StringBuilder(s).reverse().toString();
         int n = rev.length();
         int[][] dp = new int[m][n];
         for(int i = 0; i<m; i++) Arrays.fill(dp[i], -1);
-        return helper(m-1, n-1, new StringBuilder(s), rev, dp);
+        return helper(m-1, n-1, new StringBuilder(s), new StringBuilder(rev), dp);
     }
     public int helper(int i, int j, StringBuilder a, StringBuilder b, int[][] dp){
         if(i<0 || j<0) return 0;
