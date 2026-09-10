@@ -29,7 +29,6 @@ class Solution {
        average(root);
        return count;
     }
-    
     public Pair average(TreeNode root){
         if(root==null) return new Pair(0,0); 
         Pair lst = average(root.left);
